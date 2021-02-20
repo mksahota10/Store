@@ -3,6 +3,19 @@ Userstory:
 This product will be a fully functioning eCommerce website from start to checkout functionality. Users will have the ability to add multiple products to cart, 
 
 
+Wire Frame:
+![Screen Shot 2021-02-19 at 8 47 39 PM](https://user-images.githubusercontent.com/68258139/108584161-fc460a00-72f3-11eb-8697-390e8468abfb.png)
+
+![Screen Shot 2021-02-19 at 8 47 51 PM](https://user-images.githubusercontent.com/68258139/108584182-1e3f8c80-72f4-11eb-977f-3cd9d9a400fd.png)
+
+
+
+
+
+
+
+
+
 Templates
 
 This project will focus on 3 main templates, store.html, cart.html and checkout.html. 
