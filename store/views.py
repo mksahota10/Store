@@ -6,6 +6,11 @@ import datetime
 from .models import * 
 from .utils import cookieCart, cartData, guestOrder
 
+
+def home(request):
+	return render(request, 'store/home.html')
+
+
 def store(request):
 	data = cartData(request)
 

@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5,h6{
 
 .thumbnail{
 	width: 100%;
-	height: 275px;
+	height: 325px;
 	-webkit-box-shadow: -1px -3px 5px -2px rgba(214,214,214,1);
     -moz-box-shadow: -1px -3px 5px -2px rgba(214,214,214,1);
 	box-shadow: -1px -3px 5px -2px rgba(214,214,214,1);
@@ -110,4 +110,15 @@ h1,h2,h3,h4,h5,h6{
 }
 #cart-total{
 	color:black;
+}
+
+.img{
+	width: 500%; 
+	height: 250%;
+	margin-left: 1000px !important;
+	margin-top: 50px;
+}
+#shop{
+	border:1px, gray, solid;
+
 }
